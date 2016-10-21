@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+toBeA(${1:'array'});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>to</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

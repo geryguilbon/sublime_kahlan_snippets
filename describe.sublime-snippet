@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+describe('${1:Positive Expectation}', function() {
+    
+	${2:it}
+
+});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>desc</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
