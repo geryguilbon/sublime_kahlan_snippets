@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+andRun(${1:function(${2:$param}) { ${3:return $param;} \});}
+]]></content>
+	<tabTrigger>andRun</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

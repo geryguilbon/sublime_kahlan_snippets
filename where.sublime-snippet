@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+->where([${1}])
+]]></content>
+	<tabTrigger>where</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
