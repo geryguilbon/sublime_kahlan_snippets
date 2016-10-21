@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+skipIf(${1});
+]]></content>
+	<tabTrigger>skipIf</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
