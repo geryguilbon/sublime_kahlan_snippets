@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-toBeNull();
+->with(${1});
 ]]></content>
-	<tabTrigger>toBeNull</tabTrigger>
+	<tabTrigger>with</tabTrigger>
 	<scope>source.php</scope>
 </snippet>

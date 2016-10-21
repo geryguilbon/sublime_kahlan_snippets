@@ -2,7 +2,6 @@
 	<content><![CDATA[
 toBeCloseTo(${1:$expected}, ${2:$precision});
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>to</tabTrigger>
+	<tabTrigger>toBeCloseTo</tabTrigger>
 	<scope>source.php</scope>
 </snippet>

@@ -2,7 +2,6 @@
 	<content><![CDATA[
 expect(${1})->${2:toBe}(${3:true});
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>expect</tabTrigger>
 	<scope>source.php</scope>
 </snippet>

@@ -2,7 +2,6 @@
 	<content><![CDATA[
 toEcho('${1:}');
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>to</tabTrigger>
+	<tabTrigger>toEcho</tabTrigger>
 	<scope>source.php</scope>
 </snippet>

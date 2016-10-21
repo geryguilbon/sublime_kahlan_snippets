@@ -2,7 +2,6 @@
 	<content><![CDATA[
 toBeAnInstanceOf(${1:'stdObject'});
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>to</tabTrigger>
+	<tabTrigger>tobeaninstanceof</tabTrigger>
 	<scope>source.php</scope>
 </snippet>

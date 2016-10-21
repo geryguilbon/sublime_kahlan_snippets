@@ -6,7 +6,6 @@ describe('${1:Positive Expectation}', function() {
 
 });
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>desc</tabTrigger>
 	<scope>source.php</scope>
 </snippet>

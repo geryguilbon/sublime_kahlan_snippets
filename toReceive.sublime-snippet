@@ -1,8 +1,7 @@
 <snippet>
 	<content><![CDATA[
-toReceive();
+toReceive(${1})${2:->andReturn(${3})};
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>to</tabTrigger>
+	<tabTrigger>toReceive</tabTrigger>
 	<scope>source.php</scope>
 </snippet>

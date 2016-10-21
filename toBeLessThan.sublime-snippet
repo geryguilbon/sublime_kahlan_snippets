@@ -2,7 +2,6 @@
 	<content><![CDATA[
 toBeLessThan(${1});
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>to</tabTrigger>
+	<tabTrigger>toBeLessThan</tabTrigger>
 	<scope>source.php</scope>
 </snippet>

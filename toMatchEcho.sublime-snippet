@@ -2,7 +2,6 @@
 	<content><![CDATA[
 toMatchEcho('/${1}/');
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>to</tabTrigger>
+	<tabTrigger>toMatchEcho</tabTrigger>
 	<scope>source.php</scope>
 </snippet>

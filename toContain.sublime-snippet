@@ -2,7 +2,6 @@
 	<content><![CDATA[
 toContain(${1});
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>to</tabTrigger>
+	<tabTrigger>toContain</tabTrigger>
 	<scope>source.php</scope>
 </snippet>
