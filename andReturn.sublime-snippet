@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-toReceive(${1})${2:->andReturn(${3});}
+->andReturn(${1});
 ]]></content>
-	<tabTrigger>toReceive</tabTrigger>
+	<tabTrigger>andReturn</tabTrigger>
 	<scope>source.php</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-expect(${1})->${2:toBe}(${3:true});
+expect(${1})->${2:${3:toBe}(${4:true});}
 ]]></content>
 	<tabTrigger>expect</tabTrigger>
 	<scope>source.php</scope>

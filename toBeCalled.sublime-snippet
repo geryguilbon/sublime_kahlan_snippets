@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-toBeCalled();
+toBeCalled()${1:;}
 ]]></content>
 	<tabTrigger>toBeCalled</tabTrigger>
 	<scope>source.php</scope>

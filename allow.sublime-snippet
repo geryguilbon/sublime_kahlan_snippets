@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-allow(${1})${2:->toReceive(${3})${4:->andReturn(${5})}};
+allow(${1})->${2:toReceive(${3})${4:->andReturn(${5})};}
 ]]></content>
 	<tabTrigger>allow</tabTrigger>
 	<scope>source.php</scope>
